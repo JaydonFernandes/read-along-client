@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/read-along-client/static/css/main.efd38770.chunk.css",
-    "main.js": "/read-along-client/static/js/main.8a0fad1a.chunk.js",
-    "main.js.map": "/read-along-client/static/js/main.8a0fad1a.chunk.js.map",
-    "runtime-main.js": "/read-along-client/static/js/runtime-main.b67fe23f.js",
-    "runtime-main.js.map": "/read-along-client/static/js/runtime-main.b67fe23f.js.map",
-    "static/js/2.e4c0493d.chunk.js": "/read-along-client/static/js/2.e4c0493d.chunk.js",
-    "static/js/2.e4c0493d.chunk.js.map": "/read-along-client/static/js/2.e4c0493d.chunk.js.map",
+    "main.js": "/read-along-client/static/js/main.11ec2bad.chunk.js",
+    "main.js.map": "/read-along-client/static/js/main.11ec2bad.chunk.js.map",
+    "runtime-main.js": "/read-along-client/static/js/runtime-main.81f13b78.js",
+    "runtime-main.js.map": "/read-along-client/static/js/runtime-main.81f13b78.js.map",
+    "static/js/2.3abea033.chunk.js": "/read-along-client/static/js/2.3abea033.chunk.js",
+    "static/js/2.3abea033.chunk.js.map": "/read-along-client/static/js/2.3abea033.chunk.js.map",
+    "static/js/3.20352ebc.chunk.js": "/read-along-client/static/js/3.20352ebc.chunk.js",
+    "static/js/3.20352ebc.chunk.js.map": "/read-along-client/static/js/3.20352ebc.chunk.js.map",
     "index.html": "/read-along-client/index.html",
     "static/css/main.efd38770.chunk.css.map": "/read-along-client/static/css/main.efd38770.chunk.css.map",
-    "static/js/2.e4c0493d.chunk.js.LICENSE.txt": "/read-along-client/static/js/2.e4c0493d.chunk.js.LICENSE.txt",
+    "static/js/2.3abea033.chunk.js.LICENSE.txt": "/read-along-client/static/js/2.3abea033.chunk.js.LICENSE.txt",
+    "static/js/3.20352ebc.chunk.js.LICENSE.txt": "/read-along-client/static/js/3.20352ebc.chunk.js.LICENSE.txt",
     "static/media/HammyTheHamster-01.b0046e30.png": "/read-along-client/static/media/HammyTheHamster-01.b0046e30.png",
     "static/media/HammyTheHamster-02.738c253c.png": "/read-along-client/static/media/HammyTheHamster-02.738c253c.png",
     "static/media/HammyTheHamster-03.e4968da4.png": "/read-along-client/static/media/HammyTheHamster-03.e4968da4.png",
@@ -50,12 +53,17 @@
     "static/media/HomeworkYuck-22.3f0b1014.png": "/read-along-client/static/media/HomeworkYuck-22.3f0b1014.png",
     "static/media/HomeworkYuck-23.7d056ac3.png": "/read-along-client/static/media/HomeworkYuck-23.7d056ac3.png",
     "static/media/HomeworkYuck-24.b9dbff2d.png": "/read-along-client/static/media/HomeworkYuck-24.b9dbff2d.png",
-    "static/media/HomeworkYuck-25.c08eaea4.png": "/read-along-client/static/media/HomeworkYuck-25.c08eaea4.png"
+    "static/media/HomeworkYuck-25.c08eaea4.png": "/read-along-client/static/media/HomeworkYuck-25.c08eaea4.png",
+    "static/media/beep.7d9014f4.mp3": "/read-along-client/static/media/beep.7d9014f4.mp3",
+    "static/media/cheer.0864341f.mp3": "/read-along-client/static/media/cheer.0864341f.mp3",
+    "static/media/fart.d247c87e.mp3": "/read-along-client/static/media/fart.d247c87e.mp3",
+    "static/media/laugh.8be1a53c.mp3": "/read-along-client/static/media/laugh.8be1a53c.mp3",
+    "static/media/scream.e14ebe6d.mp3": "/read-along-client/static/media/scream.e14ebe6d.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.b67fe23f.js",
-    "static/js/2.e4c0493d.chunk.js",
+    "static/js/runtime-main.81f13b78.js",
+    "static/js/2.3abea033.chunk.js",
     "static/css/main.efd38770.chunk.css",
-    "static/js/main.8a0fad1a.chunk.js"
+    "static/js/main.11ec2bad.chunk.js"
   ]
 }
